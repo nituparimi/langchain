@@ -1,4 +1,4 @@
-Before running loclalama.py
+Before running locallama.py
 
 Download Ollama
 
