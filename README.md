@@ -4,4 +4,4 @@ Download Ollama
 
 ollama run modelname
 
-example: ollama run gemma
+example: ollama run gemma or ollama run llama2
